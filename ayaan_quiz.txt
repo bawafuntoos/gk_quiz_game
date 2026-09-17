@@ -1,0 +1,11 @@
+https://github.com/bawafuntoos/gk_quiz_game.git
+
+
+
+
+
+git remote add origin https://github.com/bawafuntoos/gk_quiz_game.git
+git branch -M main
+git add .
+git commit -m "Initial commit - GK Quiz Game"
+git push -u origin main
